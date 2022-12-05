@@ -2,6 +2,9 @@
 
 ### Nextjs
 ```
+npm i sharp
+npm i next-pwa
+npm install next-auth
 npm i nextjs-progressbar
 ```
 
