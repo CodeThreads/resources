@@ -1,5 +1,16 @@
 # resources
 
+### Nextjs
+```
+npm i nextjs-progressbar
+```
+
+### Tailwind
+```
+npm i tailwind-scrollbar
+npm i @tailwindcss/aspect-ratio
+```
+
 ### react icons / toasts
 ```
 npm install react-hot-toast
