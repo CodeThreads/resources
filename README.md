@@ -4,7 +4,7 @@
 ```
 npm i sharp
 npm i next-pwa
-npm install next-auth
+npm i next-auth
 npm i nextjs-progressbar
 ```
 
@@ -13,11 +13,17 @@ npm i nextjs-progressbar
 npm i tailwind-scrollbar
 npm i @tailwindcss/aspect-ratio
 ```
+### Vs Code
+```
+npm i -g yo generator-code
+npm i @vscode/vsce
+```
+
 
 ### react icons / toasts
 ```
-npm install react-hot-toast
-npm install react-icons --save
+npm i react-hot-toast
+npm i react-icons --save
 ```
 
 ### Sanity
@@ -29,7 +35,4 @@ npm install -g @sanity/cli
 
 npx @sanity/cli init
 npx @sanity/cli start
-or 
-npm run start
-
 ```
