@@ -4,6 +4,8 @@
 ```
 npm i sharp
 npm i next-pwa
+npm i next-seo
+npm i next-google-ads
 npm i next-auth
 npm i nextjs-progressbar
 ```
@@ -19,6 +21,11 @@ npm i -g yo generator-code
 npm i @vscode/vsce
 ```
 
+### Pritter
+```
+npm install --save-dev --save-exact prettier
+npm install -D prettier prettier-plugin-tailwindcss
+```
 
 ### react icons / toasts
 ```
