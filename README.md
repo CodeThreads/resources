@@ -32,6 +32,11 @@ npm install -D prettier prettier-plugin-tailwindcss
 npm i react-hot-toast
 npm i react-icons --save
 ```
+### Framer-Motion
+```
+npm install framer-motion
+npm install three @react-three/fiber framer-motion-3d
+```
 
 ### Sanity
 ```
